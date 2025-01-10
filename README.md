@@ -6,10 +6,10 @@ Front End ReactJS Developer
 
 I am a frontend developer who loves ReactJS
 
-* 🌍  I'm based in Lahore, Pakistan
+* 🌍  I'm based in Riyadh, Saudi Arabia
 * 🖥️  See my portfolio at [MyPortfolio](http://3d-portfolio-ten-omega.vercel.app/)
 * ✉️  You can contact me at [shahzebjadoon0@gmail.com](mailto:shahzebjadoon0@gmail.com)
-* 🚀  I'm currently working on [FirmSanad Application](http://firmsanad.com/)
+* 🚀  I'm currently working on [StarsAI](https://stars-ai.com/)
 * 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm SpiderMan please don't tell anyone
